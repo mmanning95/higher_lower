@@ -33,7 +33,9 @@ pip install requests
 ## Example Gameplay
 Who has the higher Pokédex number?
 > 1: Bulbasaur
+
 > 2: Charmander
+
 > 2
 
 ## Contributing
